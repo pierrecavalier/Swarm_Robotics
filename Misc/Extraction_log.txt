@@ -1,8 +1,0 @@
-########### Extraction Notice ###########
-
-File created on : {0}
-Total time : {1}
-
-------------    File info    ------------
-
-{2}

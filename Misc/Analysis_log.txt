@@ -1,7 +1,0 @@
-####### Tracking Analysis Notice #########
-
-File created on : {0}
-
------------    Files info    -------------
-
-{1}
