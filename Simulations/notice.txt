@@ -1,0 +1,24 @@
+Pour changer le modèle:
+
+Dans TKinter_visualization.py:
+    -Rajouter/supprimer les paramètres dans le dictionnaire self.args
+
+Dans RK_ODE.py:
+    -Dans step : changer le modèle
+    -Dans ode_solution : Rajouter/supprimer les paramètres dans le même ordre que dans TKinter_visualization.py
+
+Lancer TKinter_visualization.py
+
+Pour lancer la simulation: appuyer sur "Entrer après avoir mesuré un paramètre"
+
+English version:
+In TKinter_visualization.py:
+    -Add/remove parameters in the self.args dictionary
+
+In RK_ODE.py:
+    -In step: change the model
+    -In ode_solution: Add/remove parameters in the same order as in TKinter_visualization.py
+
+Run TKinter_visualization.py
+
+Press "Return" to launch the simulation after changing the parameters

@@ -1,0 +1,27 @@
+############ Tracking Notice #############
+
+File created on : 11/06/2021 10:40:02
+
+------------    Parameters    ------------
+
+parallel                = False
+debug                   = 2
+soften                  = 2.0
+roi                     = (0, 4096, 0, 3000)
+fisheye_correction_path = Tracking/Distortion_data/fisheye.pickle
+results_folder          = Results/Pickles
+video_folder            = Results/Videos
+save_data               = True
+export_vid              = False
+video_fps               = 15
+
+min_KB_radius           = 80
+max_KB_radius           = 95
+
+background_path         = DATA_CLEAN/osc6/fond.bmp
+frames_path             = DATA_CLEAN/osc6
+
+
+-----------    Tracking info    ----------
+
+Total time              = 54.2806

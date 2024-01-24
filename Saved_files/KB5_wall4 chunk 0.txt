@@ -1,0 +1,27 @@
+x_0 = 0
+y_0 = 0
+vx_0 = 0
+vy_0 = 0
+theta_0 = 0
+omega_0 = 0
+tau_vsl = 1
+kappa = 10
+sigma = 5
+tau_nsl = 1
+beta = 0
+I = 1
+t_max = 20
+nb_points = 50
+noise = 0
+n_chunck = 0
+measure_percent = 100
+scale = 200
+offset_x = 6.1
+offset_y = 15.5
+arr_length = 0.5
+speed = 0
+pourcentVisible = 10
+debutfourier = 0
+finfourier = 100
+Angle de rotation = 180
+Adresse du fichier chargé: C:/Users/pirc/swarm-robotics-active-matter/Wall_data_raw/wall/KB5_wall4.pickle

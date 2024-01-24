@@ -1,0 +1,27 @@
+########### Extraction Notice ############
+
+File created on : 07/06/2021 16:16:54
+
+------------    Parameters    ------------
+
+parallel                = False
+debug                   = 1
+soften                  = 2.3
+roi                     = (0, 4096, 0, 3000)
+fisheye_correction_path = Tracking/Distortion_data/fisheye.pickle
+results_folder          = Results/Pickles
+video_folder            = Results/Videos
+save_data               = True
+export_vid              = False
+video_fps               = 15
+
+min_KB_radius           = 80
+max_KB_radius           = 95
+
+background_path         = DATA_CLEAN/test/**/*00000.png
+frames_path             = DATA_CLEAN/test/*
+
+
+-----------    Tracking info    ----------
+
+Total time              = 11.0861
