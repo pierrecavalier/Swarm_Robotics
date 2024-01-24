@@ -6,7 +6,7 @@ Swarm Robotics : distributed online learning in the realm of Active Matter.
 
 ## Usage
 
-Run Simulations/TKinter_visualization.py to visualize the kilobot, equation that describe the movement can be found in the report. Parameters can be modified around desired values, press enter to simulate. You can also check various output such as fourier transform, velocity etc..
+Run Simulations/TKinter_visualization.py to visualize the kilobot, equations that describe the movement can be found in the report. Parameters can be modified around desired values, press enter to simulate. You can also check various output such as fourier transform, velocity etc..
 
 ## Result
 
